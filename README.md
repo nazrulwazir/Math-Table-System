@@ -2,7 +2,7 @@
 
 # Math-Table-System-Program
 
-<h1><b>Assignment Semester 3 using Javca</b></h1>
+<h1><b>Assignment Semester 3 using Java</b></h1>
 
 <p>
 
